@@ -5,4 +5,5 @@
 #profile-web-page-url: https://hiddify.com
 
 vless://7736ab4f-c73a-4660-b25e-e2a08f62896a@57.129.41.216:8443?allowInsecure=true&path=%2Fvless%2F&security=tls&sni=www.ekb.eg&type=ws#Abozeid 😎
+trojan://u5559871875@57.129.41.217:2083?sni=www.ekb.eg&allowinsecure=true&insecure=true#Abozeid TROJAN GERMANY 🔥🔥😎
 
